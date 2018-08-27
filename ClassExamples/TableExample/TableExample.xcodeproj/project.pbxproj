@@ -40,6 +40,7 @@
 		1477502B2131B02700C516EE = {
 			isa = PBXGroup;
 			children = (
+				D08024DF213475ED00AA574A /* README.md */,
 				147750362131B02700C516EE /* TableExample */,
 				147750352131B02700C516EE /* Products */,
 			);
@@ -62,7 +63,6 @@
 				1477503E2131B02800C516EE /* Assets.xcassets */,
 				147750402131B02800C516EE /* LaunchScreen.storyboard */,
 				147750432131B02800C516EE /* Info.plist */,
-				D08024DF213475ED00AA574A /* README.md */,
 			);
 			path = TableExample;
 			sourceTree = "<group>";
