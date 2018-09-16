@@ -55,6 +55,10 @@ class CategoryTableViewController: UITableViewController {
     }
     
     
+    override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 100
+    }
+    
     func configure(cell: UITableViewCell, forItemAt indexPath: IndexPath ){
         let categoryString = categories[indexPath.row]
         //cell.textLabel?.text = categoryString.capitalized

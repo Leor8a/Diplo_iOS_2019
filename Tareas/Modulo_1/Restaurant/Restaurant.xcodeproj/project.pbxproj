@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		5B08377B2145D16B002EA014 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B08377A2145D16B002EA014 /* AppDelegate.swift */; };
 		5B0837802145D16B002EA014 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B08377E2145D16B002EA014 /* Main.storyboard */; };
-		5B0837822145D173002EA014 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B0837812145D173002EA014 /* Assets.xcassets */; };
 		5B0837852145D173002EA014 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B0837832145D173002EA014 /* LaunchScreen.storyboard */; };
 		5B08378D2145D316002EA014 /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B08378C2145D316002EA014 /* CategoryTableViewController.swift */; };
 		5B08378F2145D379002EA014 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B08378E2145D379002EA014 /* MenuTableViewController.swift */; };
@@ -20,13 +19,13 @@
 		5B08379B2145E7EC002EA014 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B08379A2145E7EC002EA014 /* MenuController.swift */; };
 		5B127033214DDB15005EDBB0 /* AddToOrderDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B127032214DDB15005EDBB0 /* AddToOrderDelegate.swift */; };
 		5B127035214DE2F4005EDBB0 /* OrderConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B127034214DE2F4005EDBB0 /* OrderConfirmationViewController.swift */; };
+		5B127037214E2B7B005EDBB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B127036214E2B7B005EDBB0 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5B0837772145D16B002EA014 /* Restaurant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restaurant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B08377A2145D16B002EA014 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B08377F2145D16B002EA014 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5B0837812145D173002EA014 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B0837842145D173002EA014 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B0837862145D173002EA014 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B08378C2145D316002EA014 /* CategoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
@@ -39,6 +38,7 @@
 		5B08379C21460BA8002EA014 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5B127032214DDB15005EDBB0 /* AddToOrderDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToOrderDelegate.swift; sourceTree = "<group>"; };
 		5B127034214DE2F4005EDBB0 /* OrderConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderConfirmationViewController.swift; sourceTree = "<group>"; };
+		5B127036214E2B7B005EDBB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,9 +76,9 @@
 				5B0837942145D6D1002EA014 /* Models */,
 				5B08377A2145D16B002EA014 /* AppDelegate.swift */,
 				5B08377E2145D16B002EA014 /* Main.storyboard */,
-				5B0837812145D173002EA014 /* Assets.xcassets */,
 				5B0837832145D173002EA014 /* LaunchScreen.storyboard */,
 				5B0837862145D173002EA014 /* Info.plist */,
+				5B127036214E2B7B005EDBB0 /* Assets.xcassets */,
 			);
 			path = Restaurant;
 			sourceTree = "<group>";
@@ -165,7 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B0837852145D173002EA014 /* LaunchScreen.storyboard in Resources */,
-				5B0837822145D173002EA014 /* Assets.xcassets in Resources */,
+				5B127037214E2B7B005EDBB0 /* Assets.xcassets in Resources */,
 				5B0837802145D16B002EA014 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
