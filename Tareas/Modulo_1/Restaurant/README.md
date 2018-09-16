@@ -41,8 +41,8 @@ python OpenRestaurant.py
 - Happy coding and bum bum Happy Birthday Mexico, Happy Birthday to you ,  15 of September... 
 
 
-![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/Restaurant/screenshots/image.png)
-![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/Restaurant/screenshots/image.png)
-![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/Restaurant/screenshots/image3.png)
-![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/Restaurant/screenshots/image4.png)
-![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/Restaurant/screenshots/image5.png)
+![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/screenshots/image.png)
+![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/screenshots/image2.png)
+![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/screenshots/image3.png)
+![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/screenshots/image4.png)
+![ScreenShot](https://github.com/Leor8a/Diplo_iOS_2019/blob/master/Tareas/Modulo_1/screenshots/image5.png)
