@@ -18,10 +18,11 @@ I have to finish this TODAY !! 😖 (Finished at 16 of september but finished !!
 
 Since the App that came on the Resources folder didn't work, someone on reddit posted the solution in a python file. 
 For running it, you just open a terminal and type the next command: 
-'''
+
+```
 python OpenRestaurant.py
 
-'''
+```
 
 
 
@@ -40,6 +41,8 @@ python OpenRestaurant.py
 - Happy coding and bum bum Happy Birthday Mexico, Happy Birthday to you ,  15 of September... 
 
 
-![ScreenShot](http://url/to/Simulator Screen Shot - iPhone 8 Plus - 2018-09-16 at 02.21.53.png)
-
-
+![ScreenShot](http://url/to/image.png)
+![ScreenShot](http://url/to/image2.png)
+![ScreenShot](http://url/to/image3.png)
+![ScreenShot](http://url/to/image4.png)
+![ScreenShot](http://url/to/image5.png)
