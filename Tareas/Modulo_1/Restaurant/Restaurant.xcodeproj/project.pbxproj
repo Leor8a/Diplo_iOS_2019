@@ -18,6 +18,8 @@
 		5B0837972145D704002EA014 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0837962145D704002EA014 /* MenuItem.swift */; };
 		5B0837992145D925002EA014 /* IntermediaryModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0837982145D925002EA014 /* IntermediaryModels.swift */; };
 		5B08379B2145E7EC002EA014 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B08379A2145E7EC002EA014 /* MenuController.swift */; };
+		5B127033214DDB15005EDBB0 /* AddToOrderDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B127032214DDB15005EDBB0 /* AddToOrderDelegate.swift */; };
+		5B127035214DE2F4005EDBB0 /* OrderConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B127034214DE2F4005EDBB0 /* OrderConfirmationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,8 @@
 		5B0837982145D925002EA014 /* IntermediaryModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntermediaryModels.swift; sourceTree = "<group>"; };
 		5B08379A2145E7EC002EA014 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		5B08379C21460BA8002EA014 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5B127032214DDB15005EDBB0 /* AddToOrderDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToOrderDelegate.swift; sourceTree = "<group>"; };
+		5B127034214DE2F4005EDBB0 /* OrderConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderConfirmationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 				5B0837902145D38B002EA014 /* OrderTableViewController.swift */,
 				5B08378C2145D316002EA014 /* CategoryTableViewController.swift */,
 				5B0837922145D566002EA014 /* MenuItemDetailViewController.swift */,
+				5B127032214DDB15005EDBB0 /* AddToOrderDelegate.swift */,
+				5B127034214DE2F4005EDBB0 /* OrderConfirmationViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -171,6 +177,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B127035214DE2F4005EDBB0 /* OrderConfirmationViewController.swift in Sources */,
+				5B127033214DDB15005EDBB0 /* AddToOrderDelegate.swift in Sources */,
 				5B08379B2145E7EC002EA014 /* MenuController.swift in Sources */,
 				5B0837912145D38B002EA014 /* OrderTableViewController.swift in Sources */,
 				5B0837972145D704002EA014 /* MenuItem.swift in Sources */,
