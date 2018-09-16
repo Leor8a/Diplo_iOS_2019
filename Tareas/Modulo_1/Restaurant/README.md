@@ -40,6 +40,6 @@ python OpenRestaurant.py
 - Happy coding and bum bum Happy Birthday Mexico, Happy Birthday to you ,  15 of September... 
 
 
-![ScreenShot](/screenshots/Simulator Screen Shot - iPhone 8 Plus - 2018-09-16 at 02.21.53)
+![ScreenShot](/screenshots/Simulator Screen Shot - iPhone 8 Plus - 2018-09-16 at 02.21.53.png)
 
 
